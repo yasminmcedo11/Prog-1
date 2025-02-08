@@ -1,0 +1,6 @@
+x = int(input())
+y = int(input())
+z = int(input())
+w = int(input())
+total = x + (y - 1) + (z - 1) + (w - 1)
+print(total)

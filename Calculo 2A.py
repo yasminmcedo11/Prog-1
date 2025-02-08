@@ -1,0 +1,6 @@
+n = float(input())
+x = float(input())
+y = float(input())
+z = float(input())
+media = ((n*1) + (x*1) + (y*1) + (z*1))/(4)
+print("%.2f"%media)
